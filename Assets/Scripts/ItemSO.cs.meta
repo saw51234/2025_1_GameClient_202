@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Scripts/ItemSO.cs.meta
+guid: ba939b0712f1da043b307ccc12f363d8
+========
+guid: 5a6e7f3a2965a9540bbad0cc9371ce72
+>>>>>>>> Stashed changes:Assets/Scripts/ItemDataLoader.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

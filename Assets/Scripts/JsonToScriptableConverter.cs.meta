@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Scripts/JsonToScriptableConverter.cs.meta
+guid: 14a072a4202db3943ac37a2ed2a75ae7
+========
+guid: 2120752dd9791774f825197ec5048d00
+>>>>>>>> Stashed changes:Assets/Scripts/ItemType.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
