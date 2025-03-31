@@ -9,6 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba939b0712f1da043b307ccc12f363d8, type: 3}
-  m_Name: Item_0001+Long Sword
+  m_Script: {fileID: 11500000, guid: d4861037e2042754ab461de0416eef02, type: 3}
+  m_Name: Choice_2_2
   m_EditorClassIdentifier: 
+  text: "\uC624\uB978\uCABD \uAE38\uB85C \uAC04\uB2E4"
+  nextId: 10
