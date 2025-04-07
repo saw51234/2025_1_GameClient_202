@@ -10,7 +10,7 @@ public class DialogDatabaseSO : ScriptableObject
 
     private Dictionary<int, DialogSO> dialogsByld;
 
-    private void Initailize()
+    public void Initailize()
     {
         dialogsByld = new Dictionary<int, DialogSO>();
 

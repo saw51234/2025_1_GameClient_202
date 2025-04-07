@@ -11,7 +11,7 @@ public class ItemDatabaseSO : ScriptableObject
     private Dictionary<int, ItemSO> itemById;
     private Dictionary<string, ItemSO> itemByName;
 
-    public void Initialze()
+    public void Initialize()
     {
         itemById = new Dictionary<int, ItemSO>();
         itemByName = new Dictionary<string, ItemSO>();
@@ -27,7 +27,7 @@ public class ItemDatabaseSO : ScriptableObject
     {
         if(itemById == null)
         {
-            Initialze();
+            Initialize();
         }
         if (itemById.TryGetValue(id, out ItemSO item))
             return item;
@@ -38,7 +38,7 @@ public class ItemDatabaseSO : ScriptableObject
     {
         if (itemByName == null)
         {
-            Initialze();
+            Initialize();
         }
         if (itemByName.TryGetValue(name, out ItemSO item))
             return item;
