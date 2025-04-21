@@ -15,6 +15,6 @@ MonoBehaviour:
   cardName: "\uD790"
   description: "\uCCB4\uB825\uC744 \uD68C\uBCF5\uD55C\uB2E4."
   artwork: {fileID: 21300000, guid: feb8709f10385a94095b55fe8d0f625c, type: 3}
-  manaCost: 0
+  manaCost: 1
   effectAmount: 2
   cardType: 1
