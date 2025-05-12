@@ -379,7 +379,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -841.4, y: -337.3}
+  m_AnchoredPosition: {x: -841.4, y: -473.4}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &478819412
@@ -764,6 +764,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7a44115663a79a44c8b9e175ed85db47, type: 2}
   - {fileID: 11400000, guid: 64159ffac14a2304e984d7283ed95296, type: 2}
   - {fileID: 11400000, guid: e4dd0ff2ef23edd4e8ab6dfaff24069d, type: 2}
+  - {fileID: 11400000, guid: 7ae0716ec717053408f8a9435dfb7b3c, type: 2}
+  - {fileID: 11400000, guid: 05faea7a231c58d4a98546ee4d1ef557, type: 2}
+  - {fileID: 11400000, guid: 0466df0f3aa2f3a449cb5b5eef04ccf7, type: 2}
   handCards: []
   discardCards: []
   cardPrefab: {fileID: 8324717536818418139, guid: a5aa06c819865df4ab4a1902b2c7a477,
@@ -907,7 +910,7 @@ GameObject:
   - component: {fileID: 1298207428}
   m_Layer: 7
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
